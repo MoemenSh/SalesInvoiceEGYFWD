@@ -1,5 +1,5 @@
 
-package salesModel;
+package model;
 
 public class Items {
     private String item;

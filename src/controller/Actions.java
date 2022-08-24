@@ -1,12 +1,12 @@
-package Actions;
+package controller;
 
-import salesModel.Invoice;
-import salesModel.InvoicesJTableView;
-import salesModel.Items;
-import salesModel.ItemsJTableModel;
-import salesView.InvoiceGrid;
-import salesView.InvoiceJFrameView;
-import salesView.ItemsGrid;
+import model.Invoice;
+import model.InvoicesJTableView;
+import model.Items;
+import model.ItemsJTableModel;
+import view.InvoiceGrid;
+import view.InvoiceJFrameView;
+import view.ItemsGrid;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.io.File;

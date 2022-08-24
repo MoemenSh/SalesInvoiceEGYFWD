@@ -3,11 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package salesView;
+package view;
 
-import Actions.Actions;
-import salesModel.Invoice;
-import salesModel.InvoicesJTableView;
+import controller.Actions;
+import model.Invoice;
+import model.InvoicesJTableView;
 import java.awt.Color;
 import java.util.ArrayList;
 import javax.swing.JLabel;
